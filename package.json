@@ -1,0 +1,21 @@
+{
+  "name": "s69_weirdest_chairs",
+  "version": "1.0.0",
+  "description": "This project aims to create a list of the top 10 weirdest chairs users have encountered, with different users contributing unique lists based on their observations. Each user can log in, view, add, or update their personalized list of weird chairs. The project will showcase how to build an interactive and user-specific web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanneha/S69_Weirdest_Chairs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kanneha/S69_Weirdest_Chairs/issues"
+  },
+  "homepage": "https://github.com/Kanneha/S69_Weirdest_Chairs#readme"
+}
